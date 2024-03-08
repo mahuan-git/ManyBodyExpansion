@@ -9,7 +9,7 @@ REQUIRED_PACKAGES = [
 ]
 
 
-setup(name='ManyBodyExpansion',
+setup(name='mbe',
       version='0.1',
       description='manybody expansion as a quantum chemistry fragmentation scheme',
       author='Ma Huan',

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mbe
+Version: 0.1
+Summary: manybody expansion as a quantum chemistry fragmentation scheme
+Author: Ma Huan
+Author-email: mahuan15@mail.ustc.edu.cn
+Platform: any
+License-File: LICENSE
